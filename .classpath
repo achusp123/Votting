@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/jxl-2.6.3.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ACHUS/Documents/workspace/Votting/References/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
